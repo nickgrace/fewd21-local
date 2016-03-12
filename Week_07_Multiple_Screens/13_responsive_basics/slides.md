@@ -1,10 +1,5 @@
-![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
 #FEWD - Responsive Basics 
-
-###Instructor Name
-
-Instructors current role.
 
 ---
 
@@ -196,10 +191,7 @@ If I put the media query before .box{float:left;} will this work as expected?
 
 ---
 
-
 ##Optional
 
 Grid layouts
 Transition (make media query changes smoother)
-
----
